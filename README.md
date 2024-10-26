@@ -1,2 +1,2 @@
-# dd_encounter_manager
+# D&D Encounter Manager
 D&D Encounter Manager
